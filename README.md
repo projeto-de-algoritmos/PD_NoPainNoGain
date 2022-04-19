@@ -1,41 +1,36 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
+## 💪🏽 No pain, No gain 🏋
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação dinâmica<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+|  Matrícula  |            Aluno           |
+|    --       |             --             |
+| 14/0031634  |  Stefânia Bezerra da Silva |
+| 15/0150741  |  Victor Alves Gomide       |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Banban é um viciado em academia e gostaria de sabe sobre o máximo de exercícios que podem ser feitos sem ficar ocioso esperando alguém limpar o aparelho utilizado.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: python<br>
+**Framework**: não existe<br>
+1) Primeiramente o usuário deverá clonar o repositório:
+
+`git clone https://github.com/projeto-de-algoritmos/PD_NoPainNoGain`
+
+2) Depois do repositório clonado, você deverá instalar o Python caso não tenha em sua máquina:
+
+`sudo apt-get install python3`
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Depois de instalar as dependências acima, o usuário precisará apenas compilar o código no terminal:
+`python3 .py`
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
