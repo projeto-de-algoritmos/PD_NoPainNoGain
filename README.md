@@ -30,7 +30,8 @@ Banban é um viciado em academia e gostaria de sabe sobre o máximo de exercíci
 
 ## Uso 
 Depois de instalar as dependências acima, o usuário precisará apenas compilar o código no terminal:
-`python3 .py`
+
+`python3 main.py`
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
